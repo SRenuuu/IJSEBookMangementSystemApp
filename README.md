@@ -4,5 +4,5 @@
 
 Powered by React Native 🔥
 
-Views only, not functonal yet! 🥺
+Views only, not functional yet! 🥺💔
 Stay tuned for updates 😉💻
